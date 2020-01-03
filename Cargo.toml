@@ -1,0 +1,14 @@
+[package]
+name = "six_slots"
+version = "0.1.0"
+authors = ["phoenix"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rumqtt = "0.31.0"
+serde_json = "1.0.44"
+serde = "1.0.104"
+rustling-ontology = { path = "rustling-ontology" }
+rustling-ontology-json-utils = { path = "rustling-ontology/json-utils" }
