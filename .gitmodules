@@ -1,0 +1,3 @@
+[submodule "rustling-ontology"]
+	path = rustling-ontology
+	url = https://github.com/snipsco/rustling-ontology
